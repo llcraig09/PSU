@@ -1,0 +1,1 @@
+﻿New-PSUComputerGroup -Name "Testing" -Description "For others"

@@ -1,0 +1,2 @@
+﻿New-PSUScript -Name "HelloWorld.ps1" -Description "HelloWorld.ps1" -Path "HelloWorld.ps1" -ErrorAction "SilentlyContinue" -InformationAction "SilentlyContinue" 
+New-PSUScript -Name "Variables.ps1" -Path "Variables.ps1" -ErrorAction "SilentlyContinue" -InformationAction "SilentlyContinue"
